@@ -1,3 +1,6 @@
+### [👉👉👉♥♥点此进入♥观看入口👈👈👈](https://mrddrm.github.io/app.html)
+<br></br><br></br><br></br>
+
  self.inserted_money += coin
         print(f"已投入: ¥{coin:.1f} (总计: ¥{self.inserted_money:.1f})")
         return True
